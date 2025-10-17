@@ -4,12 +4,9 @@
 
 ###
 
-<h1 align="center"></h1>
-
-###
-
 <h2 align="left">Front-End Developer💻🌐 | Tech Curious ⚡</h2>
 
+<hr style="width:60px; border:1px solid #ccc; margin-left:0">
 ###
 
 <h3 align="left">🌟  About Me :</h3>
@@ -38,6 +35,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="12" height="40" alt="reactrouter logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg"  width="12" height="40" alt="mui logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg"  width="12" height="40" alt="zustand logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg"  width="12" height="40" alt="axios logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"  width="12" height="40" alt="vitejs logo"/>
+          
+          
+          
+          
+          
+  
 </div>
 
 ###
