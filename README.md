@@ -6,8 +6,7 @@
 
 <h2 align="left">Front-End Developer💻🌐 | Tech Curious ⚡</h2>
 
-
-<hr style="width:60px; border:1px solid #ccc; margin-left:0">
+ ###
 
 <h2 align="left">🌟  About Me :</h2>
 
