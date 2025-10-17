@@ -1,23 +1,23 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=Hi%20there%20%F0%9F%91%8B%20I'm%20negin%20Zolghadr&fontSize=35&fontColor=FFFFFF&fontAlign=40&fontAlignY=40&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=Hi%20there%20%F0%9F%91%8B%20I'm%20negin%20Zolghadr&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
 <h2 align="left">Front-End Developer💻🌐 | Tech Curious ⚡</h2>
 
+###
 <hr style="width:60px; border:1px solid #ccc; margin-left:0">
-###
 
-<h3 align="left">🌟  About Me :</h3>
-
-###
-
-<p align="left">I'm a passionate Front-End Developer creating interactive ,responsive, user-friendly web experiences and I love learning new technologies🚀</p>
+<h2 align="left">🌟  About Me :</h2>
 
 ###
 
-<h3 align="left">🛠 Language and tools :</h3>
+<h4 align="left">I'm a passionate Front-End Developer creating interactive ,responsive, user-friendly web experiences and I love learning new technologies🚀</h4>
+
+###
+
+<h2 align="left">🛠 Language and tools :</h2>
 
 ###
 
@@ -40,17 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg"  width="12" height="40" alt="zustand logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg"  width="12" height="40" alt="axios logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"  width="12" height="40" alt="vitejs logo"/>
-          
-          
-          
-          
-          
-  
+
 </div>
 
 ###
 
-<h3 align="left">📪 Connect with me :</h3>
+<h2 align="left">📪 Connect with me :</h2>
 
 ###
 
