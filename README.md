@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="left">I'm a passionate Front-End Developer creating interactive ,responsive, user-friendly web experiences and I love learning new technologies🚀</h4>
+<p align="left" font-size="20px">I'm a passionate Front-End Developer creating interactive ,responsive, user-friendly web experiences and I love learning new technologies🚀</p>
 
 ###
 
@@ -61,7 +61,6 @@
 ###
 
 <h3 align="left">🔥  Github Stats :</h3>
-
 ###
 
 <div align="center">
