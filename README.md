@@ -2,9 +2,10 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=Hi%20there%20%F0%9F%91%8B%20I'm%20negin%20Zolghadr&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
+
 
 <h2 align="left">Front-End Developer💻🌐 | Tech Curious ⚡</h2>
+
 
  ###
 
@@ -14,11 +15,13 @@
 
 <p align="left" font-size="20px">I'm a passionate Front-End Developer creating interactive ,responsive, user-friendly web experiences and I love learning new technologies🚀</p>
 
+
 ###
 
 <h2 align="left">🛠 Language and tools :</h2>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -53,6 +56,7 @@
 <h2 align="left">📪 Connect with me :</h2>
 
 ###
+
 
 <div align="center">
   <a href="zahra.zolghadr.dev@gmail.com" target="_blank">
